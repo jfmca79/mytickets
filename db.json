@@ -1,12 +1,12 @@
 {
   "status": [
-    { "value": "OPEN", "description": "Abierta", "order": 1 },
-    { "value": "PENDING_ACTION", "description": "Pendiente de Acción", "order": 2 },
-    { "value": "PENDING_OUTPUT", "description": "Pendiente de Salida", "order": 3 },
-    { "value": "PENDING_CONFIRMATION", "description": "Pendiente de Confirmación", "order": 4 },
-    { "value": "RECEIVABLE", "description": "Recepcionable", "order": 5 },
-    { "value": "CLOSED", "description": "Cerrada", "order": 6 },
-    { "value": "CANCELLED", "description": "Cancelada", "order": 7 }
+    { "id": 1, "value": "OPEN", "description": "Abierta", "order": 1 },
+    { "id": 2, "value": "PENDING_CONFIRMATION", "description": "Pendiente de Confirmación", "order": 2 },
+    { "id": 3, "value": "PENDING_OUTPUT", "description": "Pendiente de Salida", "order": 3 },
+    { "id": 4, "value": "PENDING_ACTION", "description": "Pendiente de Acción", "order": 4 },
+    { "id": 5, "value": "CLOSED", "description": "Cerrada", "order": 5 },
+    { "id": 6, "value": "CANCELLED", "description": "Cancelada", "order": 6 },
+    { "id": 7, "value": "RECEIVABLE", "description": "Recepcionable", "order": 7 }
   ],
   "category": [
     { "value": "SCREENING", "description": "Proyección", "order": 1 },
@@ -62,7 +62,7 @@
     {
       "id": 3,
       "ticketId": "INC000100003",
-      "status": "3",
+      "status": "4",
       "statusReason": "13001",
       "statusDescription": "PENDIENTE DE ACCIÓN",
       "categorization": "ROOM",
