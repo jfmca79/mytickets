@@ -1,9 +1,9 @@
 {
   "status": [
     { "value": "OPEN", "description": "Abierta", "order": 1 },
-    { "value": "PENDING ACTION", "description": "Pendiente de Acción", "order": 2 },
-    { "value": "PENDING EXIT", "description": "Pendiente de Salida", "order": 3 },
-    { "value": "PENDING CONFIRMATION", "description": "Pendiente de Confirmación", "order": 4 },
+    { "value": "PENDING_ACTION", "description": "Pendiente de Acción", "order": 2 },
+    { "value": "PENDING_OUTPUT", "description": "Pendiente de Salida", "order": 3 },
+    { "value": "PENDING_CONFIRMATION", "description": "Pendiente de Confirmación", "order": 4 },
     { "value": "RECEIVABLE", "description": "Recepcionable", "order": 5 },
     { "value": "CLOSED", "description": "Cerrada", "order": 6 },
     { "value": "CANCELLED", "description": "Cancelada", "order": 7 }
