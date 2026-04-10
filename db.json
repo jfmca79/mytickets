@@ -22,25 +22,6 @@
   ],
   "tickets": [
     {
-  "id": 1,
-  "ticketId": "INC000100011",
-  "status": "1",
-  "statusReason": "10000",
-  "statusDescription": "ABIERTA",
-  "categorization": "SCREENING",
-  "locationId": "52",
-  "description": "PROYECTOR\\Imagen desenfocada",
-  "detailedDescription": "Al inicio de la sesiones las imágenes aparecen borrosas",
-  "item_sn": "PRJ-001-A",
-  "assignee": "CINE-27",
-  "assignedGroup": "CINES ESPAÑA",
-  "priority": "2",
-  "estimatedResolutionDate": "1763200000",
-  "reportedDate": "1775800800",
-  "lastModifiedDate": "1775803500",
-  "lastResolvedDate": ""
-},
-    {
       "id": 1,
       "ticketId": "INC000100001",
       "status": "1",
@@ -229,6 +210,44 @@
       "reportedDate": "1762400000",
       "lastModifiedDate": "1762401000",
       "lastResolvedDate": ""
-    }
+    },
+    {
+      "id": 11,
+      "ticketId": "INC000100011",
+      "status": "1",
+      "statusReason": "10000",
+      "statusDescription": "ABIERTA",
+      "categorization": "SCREENING",
+      "locationId": "52",
+      "description": "PROYECTOR\\Imagen desenfocada",
+      "detailedDescription": "Al inicio de la sesiones las imágenes aparecen borrosas",
+      "item_sn": "PRJ-001-A",
+      "assignee": "CINE-27",
+      "assignedGroup": "CINES ESPAÑA",
+      "priority": "2",
+      "estimatedResolutionDate": "1763200000",
+      "reportedDate": "1775800800",
+      "lastModifiedDate": "1775803500",
+      "lastResolvedDate": ""
+    },
+    {
+    "id": 12,
+    "ticketId": "INC000100012",
+    "status": "1",
+    "statusReason": "10000",
+    "statusDescription": "ABIERTA",
+    "categorization": "SCREENING",
+    "locationId": "52",
+    "description": "PROYECTOR\\No enciende",
+    "detailedDescription": "El proyector no responde al intentar encenderlo desde el panel de control",
+    "item_sn": "PRJ-001-A",
+    "assignee": "CINE-27",
+    "assignedGroup": "CINES ESPAÑA",
+    "priority": "2",
+    "estimatedResolutionDate": "1763200000",
+    "reportedDate": "1767772800",
+    "lastModifiedDate": "1774108800",
+    "lastResolvedDate": ""
+  },
   ]
 }
