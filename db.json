@@ -231,23 +231,23 @@
       "lastResolvedDate": ""
     },
     {
-    "id": 12,
-    "ticketId": "INC000100012",
-    "status": "1",
-    "statusReason": "10000",
-    "statusDescription": "ABIERTA",
-    "categorization": "SCREENING",
-    "locationId": "52",
-    "description": "PROYECTOR\\No enciende",
-    "detailedDescription": "El proyector no responde al intentar encenderlo desde el panel de control",
-    "item_sn": "PRJ-001-A",
-    "assignee": "CINE-27",
-    "assignedGroup": "CINES ESPAÑA",
-    "priority": "2",
-    "estimatedResolutionDate": "1763200000",
-    "reportedDate": "1767772800",
-    "lastModifiedDate": "1774108800",
-    "lastResolvedDate": ""
-  }
-  ],
+      "id": 12,
+      "ticketId": "INC000100012",
+      "status": "1",
+      "statusReason": "10000",
+      "statusDescription": "ABIERTA",
+      "categorization": "SCREENING",
+      "locationId": "52",
+      "description": "PROYECTOR\\No enciende",
+      "detailedDescription": "El proyector no responde al intentar encenderlo desde el panel de control",
+      "item_sn": "PRJ-001-A",
+      "assignee": "CINE-27",
+      "assignedGroup": "CINES ESPAÑA",
+      "priority": "2",
+      "estimatedResolutionDate": "1763200000",
+      "reportedDate": "1767772800",
+      "lastModifiedDate": "1774108800",
+      "lastResolvedDate": ""
+    }
+  ]
 }
